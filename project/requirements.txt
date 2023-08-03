@@ -1,0 +1,9 @@
+httpx==0.23.3
+celery==5.2.7
+kombu==5.2.4
+uvicorn==0.21.1
+fastapi==0.95.0
+starlette==0.26.1
+pydantic==1.10.12
+redis==4.5.4
+flower==1.2.0
